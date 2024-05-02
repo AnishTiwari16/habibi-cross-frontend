@@ -38,7 +38,7 @@ const useBiconomy = () => {
     try {
       const web3auth = new Web3Auth({
         clientId:
-          'BFW3wcM203ReRzwb2nnd4bu4vUTtwPOZ7zsjkd62YkniA5DOtjJAXzchQGT_lvcJswnlp18k__tWqAPs76mGNAI', // Get your Client ID from the Web3Auth Dashboard https://dashboard.web3auth.io/
+          'BNXtFj95FINrH0eTFEJMip2PAqgNRnCiV7pA98yx5FmgzQwGXtUYM8Npe-FQ09__QymTe5-HHIiXY73ksk7CPnQ', // Get your Client ID from the Web3Auth Dashboard https://dashboard.web3auth.io/
         web3AuthNetwork: 'sapphire_devnet', // Web3Auth Network
         chainConfig,
         uiConfig: {
